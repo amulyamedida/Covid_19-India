@@ -144,4 +144,4 @@ app.get('/districts/:districtId/details/', async (request, response) => {
   response.send(statenameresponse)
 })
 
-module.exports = app
+module.exports = app;
